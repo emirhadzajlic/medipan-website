@@ -1,0 +1,25 @@
+{
+  "short_name": "Kuhinje MEDIPAN",
+  "name": "Kuhinje po mjeri MEDIPAN",
+  "icons": [
+    {
+      "src": "./medipan_home.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./medipan_home.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./medipan_home.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
